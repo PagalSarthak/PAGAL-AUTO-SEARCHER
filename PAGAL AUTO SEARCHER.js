@@ -45,8 +45,8 @@
     // If the word list is not available or empty, use the default array
     if (!terms.length) {
         terms = [
-            "gold","rose","tree","moon","lamp","desk","bell","leaf","blue","pink","fire","cool","hand",
-            "face","food","game","love","hike","kite","dark","soft","wind","sand","surf","wine","ruby","mint",
+            "motorcycle","circulate","reservoir","spit","lamp","desk","bell","leaf","blue","pink","fire","cool","hand",
+            "python", "jumble", "easy", "difficult", "answer",  "xylophoneface","food","game","love","hike","kite","dark","soft","wind","sand","surf","wine","ruby","mint",
             "oak","palm","fish","bird","lily","deep","bold","true","rich","kind","fast","slow","moon","wind",
             "star","cold","warm","mild","wild","loud","deep","dark","blue","pink","gray","sing","read","draw",
             "walk","talk","cook","moon","star","time","hope","wish","love","cool","warm","deep","fast","soft",
