@@ -1,10 +1,9 @@
 // ==UserScript==
-// @name         Ultrafast Auto Searcher
+// @name         PAGAL AUTO SEARCHER
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      2.0
 // @description  Auto Search
-// @author       Shirt Less Digital On YT
-// @update by     PAGAL SARTHAK
+// @author       PAGAL AUTO SEARCHER
 // @match        *://www.bing.com/*
 // @grant        GM_getValue
 // @grant        GM_setValue
